@@ -15,5 +15,9 @@
         android:text="Hello Web"
         android:textstyle="bold"
         android:testsize="20sp" />
+        <Button 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="button"/>
 </RelativeLayout>
 
