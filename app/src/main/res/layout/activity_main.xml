@@ -19,6 +19,6 @@
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
             android:text="button"
-            android:id="@+id/button_1/>
+            android:id="@+id/button_1"/>
 </RelativeLayout>
 
